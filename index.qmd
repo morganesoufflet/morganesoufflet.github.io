@@ -2,6 +2,5 @@
 title: "Morgane Soufflet"
 ---
 
-Hi. This is my website which is currently under creation. 
+Hi! This is my website which is currently under creation. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Morgane Soufflet",
     "section": "",
-    "text": "Hi. This is my website which is currently under creation.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Hi! This is my website which is currently under creation."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "CV",
+    "section": "",
+    "text": "You can find my full CV in English here, and the French version here."
   }
 ]
